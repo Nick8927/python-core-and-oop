@@ -119,6 +119,9 @@ Thumbs.db
 # Logs
 *.log
 
+# Project-specific ignores
+main.py
+
 
 
 
